@@ -3,7 +3,7 @@ numpy
 pandas
 
 # packaging
-setuptools>=41.4.0
+setuptools>=70.0.0
 wheel>=0.33.6
 
 # historical data
